@@ -43,11 +43,8 @@ A simple and interactive **Currency Converter Web App** that allows users to con
 
 ## 📸 Screenshot
 
-(You can add a screenshot later)
+<img width="1647" height="905" alt="Screenshot 2025-12-02 110716" src="https://github.com/user-attachments/assets/8ebe770c-7519-4a7d-b6c0-6702054ca33e" />
 
-```
-![Preview](screenshot.png)
-```
 
 ---
 
